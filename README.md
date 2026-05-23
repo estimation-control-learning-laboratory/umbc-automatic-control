@@ -2,6 +2,8 @@
 
 Lecture notes, MATLAB/Simulink examples, homework resources, exams, and project materials for feedback control systems at the University of Maryland, Baltimore County (UMBC).
 
+This repository emphasizes a modern state-space and implementation-oriented approach to feedback control systems. Course materials integrate theoretical analysis with MATLAB/Simulink-based simulation workflows to connect classical control concepts with practical controller design and dynamic-system implementation.
+
 **Instructor:** Dr. Ankit Goel  
 Department of Mechanical Engineering  
 University of Maryland, Baltimore County
@@ -29,6 +31,20 @@ This repository includes course materials covering both classical and modern con
 
 ---
 
+## Software Requirements
+
+Recommended software tools include:
+- MATLAB
+- Simulink
+- Control System Toolbox
+
+Optional components may additionally use:
+- Simscape
+- Symbolic Math Toolbox
+- Aerospace Toolbox
+
+---
+
 ## Homework and Exams
 
 The repository includes:
@@ -36,7 +52,7 @@ The repository includes:
 - Selected review materials
 - Final project description and expectations
 
-Official solutions for exams may be included selectively for instructional purposes.
+Selected instructional examples and review solutions may be included where appropriate.
 
 Students are expected to first attempt all assignments independently before reviewing any provided solutions.
 
@@ -61,7 +77,7 @@ The goal is to connect theoretical concepts from class to practical controller i
 
 This repository is intended to support student learning and provide reusable reference material for feedback control systems.
 
-Students enrolled in the course should always refer to Blackboard for
+Students enrolled in the course should refer to Blackboard for all official course administration, including
 - Official announcements
 - Deadlines
 - Grading policies
