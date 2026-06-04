@@ -87,6 +87,13 @@ Students enrolled in the course should refer to Blackboard for all official cour
 This repository serves as supplemental instructional material and reference documentation.
 
 ---
+## Acknowledgments
+
+Many of the ideas, examples, and pedagogical approaches used throughout these notes were inspired by control systems courses taught by Prof. Brent Gillespie, Prof. Dennis S. Bernstein, and Prof. Peter Seiler at the University of Michigan. Their educational materials have significantly influenced the development of this repository.
+
+The materials in this repository have been adapted, expanded, and reorganized for use in ENME 403 Automatic Control at the University of Maryland, Baltimore County.
+
+---
 
 ## License
 
